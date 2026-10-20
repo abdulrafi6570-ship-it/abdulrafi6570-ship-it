@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Abdul Rafi - Programmer" width="100%" />
+<img src="banner.svg" alt="Abdul Rafi - Programmer" width="100%" />
 
 <br/>
 
-<img src="assets/about.svg" alt="Tentang aku" width="100%" />
+<img src="about.svg" alt="Tentang aku" width="100%" />
 
 <br/>
 
-<img src="assets/skills.svg" alt="Tech stack" width="100%" />
+<img src="skills.svg" alt="Tech stack" width="100%" />
 
 <br/>
 
@@ -24,12 +24,12 @@
 
 <br/><br/>
 
-<a href="https://instagram.com/rapzzhere"><img src="assets/btn-instagram.svg" height="56" alt="Instagram" /></a>
-<a href="https://wa.me/6283177780963"><img src="assets/btn-whatsapp.svg" height="56" alt="WhatsApp" /></a>
-<a href="https://github.com/abdulrafi6570-ship-it"><img src="assets/btn-github.svg" height="56" alt="GitHub" /></a>
+<a href="https://instagram.com/rapzzhere"><img src="btn-instagram.svg" height="56" alt="Instagram" /></a>
+<a href="https://wa.me/6283177780963"><img src="btn-whatsapp.svg" height="56" alt="WhatsApp" /></a>
+<a href="https://github.com/abdulrafi6570-ship-it"><img src="btn-github.svg" height="56" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" alt="Keep coding" width="100%" />
+<img src="footer.svg" alt="Keep coding" width="100%" />
 
 </div>
